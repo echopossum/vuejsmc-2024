@@ -1,5 +1,4 @@
 <script setup lang="ts">
-import { supabase } from '@/lib/supabaseClient'
 import Input from './components/ui/input/Input.vue'
 import {
   DropdownMenu,
